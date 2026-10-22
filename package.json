@@ -1,0 +1,13 @@
+{
+  "name": "nha-minh-vi-gia-dinh",
+  "version": "1.0.0",
+  "description": "Nhà Mình – Ví gia đình",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "license": "ISC"
+}
